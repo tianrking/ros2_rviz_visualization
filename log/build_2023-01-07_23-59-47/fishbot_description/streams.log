@@ -1,0 +1,38 @@
+[0.914s] Invoking command in '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description': PYTHONPATH=/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/prefix_override:/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/fishbot_description build --build-base /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build install --record /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log --single-version-externally-managed
+[1.209s] running egg_info
+[1.209s] creating build/fishbot_description/fishbot_description.egg-info
+[1.210s] writing build/fishbot_description/fishbot_description.egg-info/PKG-INFO
+[1.210s] writing dependency_links to build/fishbot_description/fishbot_description.egg-info/dependency_links.txt
+[1.210s] writing entry points to build/fishbot_description/fishbot_description.egg-info/entry_points.txt
+[1.210s] writing requirements to build/fishbot_description/fishbot_description.egg-info/requires.txt
+[1.210s] writing top-level names to build/fishbot_description/fishbot_description.egg-info/top_level.txt
+[1.210s] writing manifest file 'build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[1.213s] reading manifest file 'build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[1.213s] writing manifest file 'build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[1.213s] running build
+[1.214s] running build_py
+[1.214s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build
+[1.214s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build/lib
+[1.214s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build/lib/fishbot_description
+[1.214s] copying fishbot_description/__init__.py -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build/lib/fishbot_description
+[1.214s] running install
+[1.214s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.214s]   warnings.warn(
+[1.215s] running install_lib
+[1.215s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.10/site-packages/fishbot_description
+[1.215s] copying /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build/lib/fishbot_description/__init__.py -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.10/site-packages/fishbot_description
+[1.216s] byte-compiling /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.10/site-packages/fishbot_description/__init__.py to __init__.cpython-310.pyc
+[1.216s] running install_data
+[1.217s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/ament_index
+[1.217s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/ament_index/resource_index
+[1.217s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/ament_index/resource_index/packages
+[1.217s] copying resource/fishbot_description -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/ament_index/resource_index/packages
+[1.217s] copying package.xml -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/fishbot_description
+[1.218s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/fishbot_description/launch
+[1.218s] copying launch/display_rviz2.launch.py -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/fishbot_description/launch
+[1.218s] creating /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/fishbot_description/urdf
+[1.218s] running install_egg_info
+[1.219s] Copying build/fishbot_description/fishbot_description.egg-info to /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info
+[1.220s] running install_scripts
+[1.242s] writing list of installed files to '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log'
+[1.268s] Invoked command in '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description' returned '0': PYTHONPATH=/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/prefix_override:/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/fishbot_description build --build-base /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build install --record /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log --single-version-externally-managed

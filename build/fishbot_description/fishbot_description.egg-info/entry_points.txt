@@ -1,0 +1,4 @@
+[console_scripts]
+range = fishbot_description.range:main
+rotate_wheel = fishbot_description.rotate_wheel:main
+

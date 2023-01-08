@@ -1,0 +1,22 @@
+[0.900s] Invoking command in '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description': PYTHONPATH=/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages:${PYTHONPATH} /home/w0x7ce/anaconda3/envs/AA/bin/python setup.py egg_info --egg-base build/fishbot_description build --build-base /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build install --prefix /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description --record /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log --single-version-externally-managed
+[1.208s] running egg_info
+[1.220s] writing build/fishbot_description/fishbot_description.egg-info/PKG-INFO
+[1.309s] writing dependency_links to build/fishbot_description/fishbot_description.egg-info/dependency_links.txt
+[1.311s] writing requirements to build/fishbot_description/fishbot_description.egg-info/requires.txt
+[1.311s] writing top-level names to build/fishbot_description/fishbot_description.egg-info/top_level.txt
+[1.368s] reading manifest file 'build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[1.369s] writing manifest file 'build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[1.369s] running build
+[1.369s] running build_py
+[1.369s] running install
+[1.369s] /home/w0x7ce/anaconda3/envs/AA/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.369s]   setuptools.SetuptoolsDeprecationWarning,
+[1.374s] running install_lib
+[1.387s] running install_data
+[1.398s] copying urdf/fishbot_base.urdf -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/fishbot_description/urdf
+[1.398s] running install_egg_info
+[1.410s] removing '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages/fishbot_description-0.0.0-py3.7.egg-info' (and everything under it)
+[1.411s] Copying build/fishbot_description/fishbot_description.egg-info to /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages/fishbot_description-0.0.0-py3.7.egg-info
+[1.411s] running install_scripts
+[1.470s] writing list of installed files to '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log'
+[1.507s] Invoked command in '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description' returned '0': PYTHONPATH=/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages:${PYTHONPATH} /home/w0x7ce/anaconda3/envs/AA/bin/python setup.py egg_info --egg-base build/fishbot_description build --build-base /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build install --prefix /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description --record /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log --single-version-externally-managed

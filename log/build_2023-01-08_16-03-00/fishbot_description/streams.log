@@ -1,0 +1,26 @@
+[0.902s] Invoking command in '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description': PYTHONPATH=/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages:${PYTHONPATH} /home/w0x7ce/anaconda3/envs/AA/bin/python setup.py egg_info --egg-base build/fishbot_description build --build-base /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build install --prefix /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description --record /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log --single-version-externally-managed
+[1.211s] running egg_info
+[1.223s] writing build/fishbot_description/fishbot_description.egg-info/PKG-INFO
+[1.223s] writing dependency_links to build/fishbot_description/fishbot_description.egg-info/dependency_links.txt
+[1.223s] writing entry points to build/fishbot_description/fishbot_description.egg-info/entry_points.txt
+[1.224s] writing requirements to build/fishbot_description/fishbot_description.egg-info/requires.txt
+[1.224s] writing top-level names to build/fishbot_description/fishbot_description.egg-info/top_level.txt
+[1.248s] reading manifest file 'build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[1.249s] writing manifest file 'build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[1.249s] running build
+[1.249s] running build_py
+[1.250s] running install
+[1.250s] /home/w0x7ce/anaconda3/envs/AA/lib/python3.7/site-packages/setuptools/command/install.py:37: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.250s]   setuptools.SetuptoolsDeprecationWarning,
+[1.255s] running install_lib
+[1.267s] copying /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build/lib/fishbot_description/rotate_wheel.py -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages/fishbot_description
+[1.268s] byte-compiling /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages/fishbot_description/rotate_wheel.py to rotate_wheel.cpython-37.pyc
+[1.268s] running install_data
+[1.280s] copying urdf/fishbot_base.urdf -> /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/share/fishbot_description/urdf
+[1.280s] running install_egg_info
+[1.293s] removing '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages/fishbot_description-0.0.0-py3.7.egg-info' (and everything under it)
+[1.293s] Copying build/fishbot_description/fishbot_description.egg-info to /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages/fishbot_description-0.0.0-py3.7.egg-info
+[1.294s] running install_scripts
+[1.355s] Installing rotate_wheel script to /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/fishbot_description
+[1.355s] writing list of installed files to '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log'
+[1.394s] Invoked command in '/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description' returned '0': PYTHONPATH=/home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description/lib/python3.7/site-packages:${PYTHONPATH} /home/w0x7ce/anaconda3/envs/AA/bin/python setup.py egg_info --egg-base build/fishbot_description build --build-base /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/build install --prefix /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/install/fishbot_description --record /home/w0x7ce/Desktop/AROSRVIZ/chapt8_ws/fishbot_description/build/fishbot_description/install.log --single-version-externally-managed
